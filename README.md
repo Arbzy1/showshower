@@ -1,4 +1,4 @@
-# Sudo-Flix
+# show-shower
 [![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.sudo-flix.lol)  
 
 **I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
@@ -12,10 +12,7 @@
 | Backend        | [sudo-backend](https://backend.sudo-flix.lol)                    | [source code](https://github.com/sussy-code/backend)     |
 | Frontend       | [sudo-flix](https://sudo-flix.lol), [2](https://flix.kanded.xyz) | [source code](https://github.com/sussy-code/smov)        |
 
-***I provide these if you are not able to host yourself, though I do encourage hosting the frontend.***
 
-
-## Referrers
 - [Priacy Subreddit Megathread](https://www.reddit.com/r/Piracy/s/iymSloEpXn)
 - [Toon's Instances](https://erynith.github.io/movie-web-instances)
 - [Sudo-Flix docs](https://sussy-code.github.io/docs)
@@ -49,6 +46,3 @@ git commit -m "Update sudo-flix instance (merge upstream/main)"
 git push  # Push to YOUR repository
 ```
 
-
-## Contact Me
-**Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
